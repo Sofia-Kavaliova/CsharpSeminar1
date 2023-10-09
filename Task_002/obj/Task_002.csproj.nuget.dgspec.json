@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\koval\\OneDrive\\Рабочий стол\\дз с\\Tasks\\Task_002\\Task_002.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\koval\\OneDrive\\Рабочий стол\\дз с\\Tasks\\Task_002\\Task_002.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\koval\\OneDrive\\Рабочий стол\\дз с\\Tasks\\Task_002\\Task_002.csproj",
+        "projectName": "Task_002",
+        "projectPath": "C:\\Users\\koval\\OneDrive\\Рабочий стол\\дз с\\Tasks\\Task_002\\Task_002.csproj",
+        "packagesPath": "C:\\Users\\koval\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\koval\\OneDrive\\Рабочий стол\\дз с\\Tasks\\Task_002\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\koval\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
